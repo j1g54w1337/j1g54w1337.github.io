@@ -20,8 +20,10 @@ author: John Kramer
 ###############################################
 
 navbar-links:
-  About Me: "Autodidact, Linux, Python, k8s, ASS, ADD"
+  About Me: "aboutme"
   Hackwerk: "Gewoon wat hackwerk.xyz"
+    - Hack the Box: "https://hackthebox.com"
+    - Try hack me: "https://tryhackme.com"
   Author's home: "https://hackwerk.xyz"
 
 ################
