@@ -10,21 +10,18 @@
 ############################
 
 # Name of website
-title: My Website
+title: j!g$@w
 
 # Your name to show in the footer
-author: Some Person
+author: John Kramer
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "Autodidact, Linux, Python, k8s, ASS, ADD"
+  Author's home: "https://j1g54w.hackwerk.xyz"
 
 ################
 # --- Logo --- #
@@ -49,13 +46,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "j1g54w_31337@itmagix.nl"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  #  facebook: deanattali
+  github: j1g54w1337
+  twitter: j1g54w_31337
+  #  patreon: DeanAttali
+  #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -79,7 +76,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Driven by the ultimate power of knowledge
 
 ###########################
 # --- General options --- #
@@ -117,7 +114,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "python, k8s, kubernetes, linux, autism, ass, add, adhd"
 
 ######################################
 # --- Colours / background image --- #
