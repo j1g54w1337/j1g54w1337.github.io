@@ -21,7 +21,7 @@ author: John Kramer
 
 navbar-links:
   About Me: "aboutme"
-  Hackwerk: "Gewoon wat hackwerk.xyz"
+  Hackwerk:
     - Hack the Box: "https://hackthebox.com"
     - Try hack me: "https://tryhackme.com"
   Author's home: "https://hackwerk.xyz"
