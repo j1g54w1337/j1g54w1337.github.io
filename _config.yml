@@ -21,6 +21,10 @@ author: John Kramer
 
 navbar-links:
   About Me: "aboutme"
+  My Gists: "gists"
+  My Projects: "projects"
+    - xStreamer: "xstreamer"
+    - 1GabbaRTD: "1gabbartd"
   Hackwerk:
     - Cheatsheets: "hackwerk-cheatsheets"
     - Hack the Box: "https://hackthebox.com"
