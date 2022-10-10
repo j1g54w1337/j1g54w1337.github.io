@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: j!g$@w
+title: "j!g$@w"
 
 # Your name to show in the footer
 author: John Kramer
@@ -20,12 +20,12 @@ author: John Kramer
 ###############################################
 
 navbar-links:
-  #About Me: "aboutme"
+  About Me: "aboutme"
   My Gists: "gists"
-  My Projects: "projects"
+  My Projects:
     - xStreamer: "xstreamer"
     - 1GabbaRTD: "1gabbartd"
-  Hackwerk: "hackwerk"
+  Hackwerk:
     - Cheatsheets: "hackwerk-cheatsheets"
     - Hack the Box: "https://hackthebox.com"
     - Try hack me: "https://tryhackme.com"
