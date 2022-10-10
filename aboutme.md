@@ -2,9 +2,11 @@
 layout: page
 title: Who am I?
 subtitle: Unsolved mysteries
-cover_img: /assets/img/j1g54w-blog.jpg
+gh-repo: j1g54w1337/j1g54w.github.io
+gh-badge: [star, fork, follow]
+cover-img: /assets/img/j1g54w-blog.jpg
 thumbnail-img: /assets/img/j1g54w-thumb.jpg
-share_img: /assets/img/j1g54w-blog.jpg
+share-img: /assets/img/j1g54w-blog.jpg
 ---
 
 # Contact
