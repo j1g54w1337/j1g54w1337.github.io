@@ -25,14 +25,16 @@ Working for a large bank as DevOps Specialist I'm able to fulfill most of my pas
 specialists around. After the regular working days I like to work on building websites, desktop publishing, music and
 audio and just being creative. Not to forget my passion for writing Python code, exploiting k8s and OffSec.
 
+My best friend is Jax, a scary American Pocket Bully but with a heart of gold. And my best girly friend will be my
+Kawasaki Z1000 2016 Sugomi Edition which wants to kill me everytime I want to ride her.
+
 # Moi summarized
 * Diagnosed weirdo
-* Always fun
+* My biggest friend, Jax!
 * Able to blow out 1000 ideas per hour, some of them are actually good. But someone has to filter them. :P
 * Wide range of music taste, but mainly the harder styles like; RAW Hardstyle, Industrial / Uptempo Hardcore and Symphonic Death Metal
 * Soldering microcontrollers and prototyping my inventions (and sometimes finish them)
 * Python coding
 * (Ethical) OffSec
 * Riding my Kawasaki Z1000
-
 
