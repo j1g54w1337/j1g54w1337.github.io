@@ -10,7 +10,7 @@ share-img: /assets/img/j1g54w-blog.jpg
 ---
 
 # Contact
-* Email: [j1g54w_31337@proton.me](j1g54w_31337@proton.me)
+* Email: [j1g54w_31337@proton.me](mailto:j1g54w_31337@proton.me)
 * Github: [https://github.com/j1g54w1337](https://github.com/j1g54w1337)
 * Twitter: [https://twitter.com/j1g54w_31337](https://twitter.com/j1g54w_31337)
 * PGP Key: 
