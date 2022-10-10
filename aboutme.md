@@ -2,8 +2,8 @@
 layout: page
 title: Who am I?
 subtitle: Unsolved mysteries
-cover_img: /assets/img/j1g54w_avatar.jpg
-share_img: /assets/img/j1g54w_avatar.jpg
+cover_img: /assets/img/j1g54w_blog.jpg
+share_img: /assets/img/j1g54w_blog.jpg
 ---
 
 # Contact
