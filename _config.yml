@@ -26,7 +26,7 @@ navbar-links:
     - Al Blundy: "projects/al_blundy"
     - Space Base: "projects/space_base"
     - xStreamer: "projects/xstreamer"
-        - 1GabbaRTD: "projects/xstreamer/side_projects/1gabbartd"
+    - 1GabbaRTD: "projects/xstreamer/side_projects/1gabbartd"
   Hackwerk:
     - Cheatsheets: "/hackwerk_hackwerk-cheatsheets"
     - Hack the Box: "https://hackthebox.com"
