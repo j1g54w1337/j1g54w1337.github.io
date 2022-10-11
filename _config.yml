@@ -23,10 +23,12 @@ navbar-links:
   About Me: "aboutme"
   My Gists: "gists"
   My Projects:
-    - xStreamer: "xstreamer"
-    - 1GabbaRTD: "1gabbartd"
+    - Al Blundy: "projects/al_blundy"
+    - Space Base: "projects/space_base"
+    - xStreamer: "projects/xstreamer"
+        - 1GabbaRTD: "projects/xstreamer/side_projects/1gabbartd"
   Hackwerk:
-    - Cheatsheets: "hackwerk-cheatsheets"
+    - Cheatsheets: "/hackwerk_hackwerk-cheatsheets"
     - Hack the Box: "https://hackthebox.com"
     - Try hack me: "https://tryhackme.com"
   Author's home: "https://hackwerk.xyz"
