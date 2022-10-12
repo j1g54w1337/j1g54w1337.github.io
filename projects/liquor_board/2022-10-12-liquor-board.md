@@ -8,6 +8,7 @@ share-img: /assets/img/j1g54w-blog.jpg
 tags: [diy, led, ws2812b, projects]
 ---
 
+## lalalala
 # Description
 My good friend Jarek made a Liquor Board for the kitchen wall to store the **43** booze! Since our kitchen is a bit dark
 I thought it would be an awesome idea to pimp it with controlable LED's.
