@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Fancy Liquor Board
 subtitle: Pimp it!
 cover-img: /assets/img/j1g54w-blog.jpg
