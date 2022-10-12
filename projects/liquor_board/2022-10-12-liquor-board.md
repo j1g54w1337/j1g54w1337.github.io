@@ -23,9 +23,7 @@ I thought it would be an awesome idea to pimp it with controlable LED's.
 | Description  | Price | Link | Comments                                                                           |
 |---           |:-----:|---   |---                                                                                 |
 | Liquid Board | Free  | N/A  | In my case for free, but don't know if Jarek takes orders! ;) Coming back to that! |
-| ws2812B controlable LED's | 15,29 EUR | [Ali Express - BTF Lightning -
-WS2812B](https://nl.aliexpress.com/item/2036819167.html?spm=a2g0o.productlist.0.0.311d3c1enKd5Uo&algo_pvid=546a52a8-ad19-42c7-b6e1-e2ed9cca47e1&algo_exp_id=546a52a8-ad19-42c7-b6e1-e2ed9cca47e1-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000026548380060%22%7D&pdp_npi=2%40dis%21EUR%216.11%214.58%21%21%21%21%21%402132e47f16656061438095791e9134%2112000026548380060%21sea&curPageLogUid=hie3XctiMwDt)
-| kiekeboe |
+| ws2812B controlable LED's | 15,29 EUR | [Ali Express - BTF Lightning - WS2812B](https://nl.aliexpress.com/item/2036819167.html?spm=a2g0o.productlist.0.0.311d3c1enKd5Uo&algo_pvid=546a52a8-ad19-42c7-b6e1-e2ed9cca47e1&algo_exp_id=546a52a8-ad19-42c7-b6e1-e2ed9cca47e1-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000026548380060%22%7D&pdp_npi=2%40dis%21EUR%216.11%214.58%21%21%21%21%21%402132e47f16656061438095791e9134%2112000026548380060%21sea&curPageLogUid=hie3XctiMwDt) | kiekeboe |
 
 
 | 12A Power Supply | 19,88 EUR | [Ali Express - BTF Lightning - 12 PSU](https://nl.aliexpress.com/item/32670505021.html?spm=a2g0o.store_pc_groupList.8148356.1.3b2178caLf1m6u&pdp_npi=2%40dis%21EUR%21%E2%82%AC%205%2C38%21%E2%82%AC%204%2C04%21%21%21%21%21%402100bdd716656066527127741e134a%2167475760392%21sh)
