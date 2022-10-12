@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fancy Liquor Board
+title: Liquor Board
 subtitle: Pimp it!
 cover-img: /assets/img/j1g54w-blog.jpg
 thumbnail-img: /assets/img/j1g54w-thumb.jpg
