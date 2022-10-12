@@ -24,9 +24,10 @@ I thought it would be an awesome idea to pimp it with controlable LED's.
 | ja     | dus  | enzo | lala | 
 
 ## Project costs and where to buy
-#| Description  | Price | Link | Comments                                                                           |
-#|---           |:-----:|---   |---                                                                                 |
-3| Liquid Board | Free  | N/A  | In my case for free, but don't know if Jarek takes orders! ;) Coming back to that! |
+
+| Description  | Price | Link | Comments                                                                           |
+|---           |:-----:|---   |---                                                                                 |
+| Liquid Board | Free  | N/A  | In my case for free, but don't know if Jarek takes orders! ;) Coming back to that! |
 
 
 |ws2812B controlable LED's | 15,29 EUR | [Ali Express - BTF Lightning -
