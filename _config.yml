@@ -28,7 +28,8 @@ navbar-links:
 #    - xStreamer: "projects/xstreamer"
 #    - 1GabbaRTD: "projects/xstreamer/side_projects/1gabbartd"
 #    - Blog post publisher: "projects/blog_post_publister"
-    - Liquor Board: "projects/liquor_board/2022-10-12-liquor-board.md"
+    - Liquor Board: "projects/liquor_board"
+      - 2022-10-12-liquor-board.md
   Hackwerk:
 #    - Cheatsheets: "/hackwerk_hackwerk-cheatsheets"
     - Hack the Box: "https://hackthebox.com"
