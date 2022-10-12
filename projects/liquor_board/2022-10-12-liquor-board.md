@@ -20,9 +20,9 @@ I thought it would be an awesome idea to pimp it with controlable LED's.
 - 12A Power supply for the ESP32 Development board and the ws2812b LED strip
 
 # Project costs and where to buy
-| Description | Price | Link | Comments |
-|---          |:-----:|---   |---       |
-| Liquid Board| Free  | N/A  | In my case for free, but don't know if Jarek takes orders! ;) Coming back to that! |
+| Description  | Price | Link | Comments                                                                           |
+|---           |:-----:|---   |---                                                                                 |
+| Liquid Board | Free  | N/A  | In my case for free, but don't know if Jarek takes orders! ;) Coming back to that! |
 
 
 ### lalalala
