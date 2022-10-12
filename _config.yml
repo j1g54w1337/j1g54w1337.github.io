@@ -24,10 +24,11 @@ navbar-links:
 #  Gists: "gists"
   Projects:
 #    - Al Blundy: "projects/al_blundy"
-    - Space Base: "projects/space_base"
-    - xStreamer: "projects/xstreamer"
-    - 1GabbaRTD: "projects/xstreamer/side_projects/1gabbartd"
+#    - Space Base: "projects/space_base"
+#    - xStreamer: "projects/xstreamer"
+#    - 1GabbaRTD: "projects/xstreamer/side_projects/1gabbartd"
 #    - Blog post publisher: "projects/blog_post_publister"
+    - Liquor Board: "projects/liquor_board"
   Hackwerk:
 #    - Cheatsheets: "/hackwerk_hackwerk-cheatsheets"
     - Hack the Box: "https://hackthebox.com"
