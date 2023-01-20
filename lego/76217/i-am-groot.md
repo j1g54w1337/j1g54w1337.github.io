@@ -9,12 +9,9 @@ thumbnail-img: /assets/img/j1g54w-thumb.jpg
 share-img: /assets/img/j1g54w-blog.jpg
 ---
 
-# Contact
-* Email: [j1g54w_31337@proton.me](mailto:j1g54w_31337@proton.me)
-* Github: [https://github.com/j1g54w1337](https://github.com/j1g54w1337)
-* Twitter: [https://twitter.com/j1g54w_31337](https://twitter.com/j1g54w_31337)
+# I am Groot (76217)
 
-# Build information
+## Build information
 * Date - 25-12-2022
 * Building time - +/- 3 hours
 
@@ -26,12 +23,14 @@ share-img: /assets/img/j1g54w-blog.jpg
 * Series - Avengers - The Infinity saga
 
 ## The beer
+
 | Brewery       | Brew           | Kind                        | Alcohol | Country | Notes                                             |
 |---------------|----------------|-----------------------------|:-------:|---------|---------------------------------------------------|
 | St. Bernandus | Abt 12         | Quadrupel Abbey Ale         | 10%     | Belgium | My all time favorite. Nothing more, nothing less! |
 | Wilderen      | Cuvée Clarisse | Whisky Infused Quadrupel    | 10,2%   | Belgium | Very nice Whisky infused sweet dark heavy beer    |
 
 ## The cigar
+
 | Brand              | Serie  | Format | Size     | Strength | Wrapper color | Wrapper           | Binder    | Filler    | Rolled by | Notes |
 |--------------------|--------|--------|:--------:|----------|---------------|-------------------|-----------|-----------|-----------|-------|
 | Tabacalera Perdomo | Lot 23 | Toro   |  6"\*50 | Medium   | Colorado      | Nicaraguan Habano | Nicaragua | Nicaragua | Handmade  | Really nice easy going cigar, perfectly matched with the beers and the Lego build |
