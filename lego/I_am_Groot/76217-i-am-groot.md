@@ -40,12 +40,12 @@ I really enjoyed building this set, and I'm glad I was able to do it on the seco
 Overall, I had a great time building the I am Groot set. The finished model is impressive and will make a great addition to any collection. Even if the build itself may not be to your liking, the love for Groot is undeniable and makes it an instant buy for many. As I mentioned, it was a gift from a loved one, making it an even more special addition to my collection. I can definitely recommend this build to anyone looking for a fun and satisfying building experience. The set is a great mix of challenging and satisfying, and the finished model is both beautiful and sturdy. If you're a fan of the Marvel franchise, or just looking for a fun building experience, this set is definitely worth checking out. Building it on a special day like the second day of Christmas, made it even more memorable.
 
 ## Build images
-![76217 I am Groot 1](assets/img/lego/76217-i-am-groot-1.jpg)
-![76217 I am Groot 2](assets/img/lego/76217-i-am-groot-2.jpg)
-![76217 I am Groot 3](assets/img/lego/76217-i-am-groot-3.jpg)
-![76217 I am Groot 4](assets/img/lego/76217-i-am-groot-4.jpg)
-![76217 I am Groot 5](assets/img/lego/76217-i-am-groot-5.jpg)
-![76217 I am Groot 6](assets/img/lego/76217-i-am-groot-6.jpg)
-![76217 I am Groot 7](assets/img/lego/76217-i-am-groot-7.jpg)
-![76217 I am Groot 8](assets/img/lego/76217-i-am-groot-8.jpg)
-![76217 I am Groot 9](assets/img/lego/76217-i-am-groot-9.jpg)
+![76217 I am Groot 1](../../assets/img/lego/76217-i-am-groot-1.jpg)
+![76217 I am Groot 2](../../assets/img/lego/76217-i-am-groot-2.jpg)
+![76217 I am Groot 3](../../assets/img/lego/76217-i-am-groot-3.jpg)
+![76217 I am Groot 4](../../assets/img/lego/76217-i-am-groot-4.jpg)
+![76217 I am Groot 5](../../assets/img/lego/76217-i-am-groot-5.jpg)
+![76217 I am Groot 6](../../assets/img/lego/76217-i-am-groot-6.jpg)
+![76217 I am Groot 7](../../assets/img/lego/76217-i-am-groot-7.jpg)
+![76217 I am Groot 8](../../assets/img/lego/76217-i-am-groot-8.jpg)
+![76217 I am Groot 9](../../assets/img/lego/76217-i-am-groot-9.jpg)
