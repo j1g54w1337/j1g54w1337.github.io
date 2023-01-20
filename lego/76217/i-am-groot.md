@@ -14,6 +14,28 @@ share-img: /assets/img/j1g54w-blog.jpg
 * Github: [https://github.com/j1g54w1337](https://github.com/j1g54w1337)
 * Twitter: [https://twitter.com/j1g54w_31337](https://twitter.com/j1g54w_31337)
 
+# Build information
+* Date - 25-12-2022
+* Building time - +/- 3 hours
+
+# The atmosphere
+## Set information
+* Number - 76217
+* Title - I am Groot
+* Age - 10+
+* Series - Avengers - The Infinity saga
+
+## The beer
+| Brewery       | Brew           | Kind                        | Alcohol | Country | Notes                                             |
+|---------------|----------------|-----------------------------|:-------:|---------|---------------------------------------------------|
+| St. Bernandus | Abt 12         | Quadrupel Abbey Ale         | 10%     | Belgium | My all time favorite. Nothing more, nothing less! |
+| Wilderen      | Cuvée Clarisse | Whisky Infused Quadrupel    | 10,2%   | Belgium | Very nice Whisky infused sweet dark heavy beer    |
+
+## The cigar
+| Brand              | Serie  | Format | Size     | Strength | Wrapper color | Wrapper           | Binder    | Filler    | Rolled by | Notes |
+|--------------------|--------|--------|:--------:|----------|---------------|-------------------|-----------|-----------|-----------|-------|
+| Tabacalera Perdomo | Lot 23 | Toro   |  6"\*50 | Medium   | Colorado      | Nicaraguan Habano | Nicaragua | Nicaragua | Handmade  | Really nice easy going cigar, perfectly matched with the beers and the Lego build |
+
 # Building the LEGO Marvel set 76217: I am Groot
 As a fan of both LEGO and the Marvel franchise, I was excited to receive the I am Groot set, number 76217 as a gift on the second day of Christmas, December 26th 2022. This set, based on the beloved character from the Guardians of the Galaxy series, promised to be a fun and challenging build. In this post, I'll be sharing my experience building the set, including the ups and downs, as well as a detailed description of the build process and the finished model.
 
@@ -41,11 +63,19 @@ Overall, I had a great time building the I am Groot set. The finished model is i
 
 ## Build images
 ![76217 I am Groot 1](../../assets/img/lego/76217-i-am-groot-1.jpg)
+
 ![76217 I am Groot 2](../../assets/img/lego/76217-i-am-groot-2.jpg)
+
 ![76217 I am Groot 3](../../assets/img/lego/76217-i-am-groot-3.jpg)
+
 ![76217 I am Groot 4](../../assets/img/lego/76217-i-am-groot-4.jpg)
+
 ![76217 I am Groot 5](../../assets/img/lego/76217-i-am-groot-5.jpg)
+
 ![76217 I am Groot 6](../../assets/img/lego/76217-i-am-groot-6.jpg)
+
 ![76217 I am Groot 7](../../assets/img/lego/76217-i-am-groot-7.jpg)
+
 ![76217 I am Groot 8](../../assets/img/lego/76217-i-am-groot-8.jpg)
+
 ![76217 I am Groot 9](../../assets/img/lego/76217-i-am-groot-9.jpg)
