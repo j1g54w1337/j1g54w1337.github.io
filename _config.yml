@@ -29,11 +29,12 @@ navbar-links:
 #    - 1GabbaRTD: "projects/xstreamer/side_projects/1gabbartd"
 #    - Blog post publisher: "projects/blog_post_publister"
      - Liquor Board: "/projects/liquor_board/2022-10-12-liquor-board/"
-     - Lego: "/lego/76217-i-am-groot/"
-  Hackwerk:
+  Lego:
+     - I am Groot: "/lego/76217-i-am-groot/"
+#  Hackwerk:
 #    - Cheatsheets: "/hackwerk_hackwerk-cheatsheets"
-    - Hack the Box: "https://hackthebox.com"
-    - Try hack me: "https://tryhackme.com"
+#    - Hack the Box: "https://hackthebox.com"
+#    - Try hack me: "https://tryhackme.com"
 #  Author's home: "https://hackwerk.xyz"
 
 ################
