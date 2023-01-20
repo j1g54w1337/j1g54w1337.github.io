@@ -10,7 +10,6 @@ share-img: /assets/img/j1g54w-blog.jpg
 ---
 
 # I am Groot (76217)
-
 ## Build information
 * Date - 25-12-2022
 * Building time - +/- 3 hours
@@ -24,10 +23,10 @@ share-img: /assets/img/j1g54w-blog.jpg
 
 ## The beer
 
-| Brewery       | Brew           | Kind                        | Alcohol | Country | Notes                                             |
-|---------------|----------------|-----------------------------|:-------:|---------|---------------------------------------------------|
-| St. Bernandus | Abt 12         | Quadrupel Abbey Ale         | 10%     | Belgium | My all time favorite. Nothing more, nothing less! |
-| Wilderen      | Cuvée Clarisse | Whisky Infused Quadrupel    | 10,2%   | Belgium | Very nice Whisky infused sweet dark heavy beer    |
+| Brewery       | Brew           | Kind                     | Alcohol | Country | Notes                                             |
+|---------------|----------------|-----                     |:-------:|---------|------                                             |
+| St. Bernandus | Abt 12         | Quadrupel Abbey Ale      | 10%     | Belgium | My all time favorite. Nothing more, nothing less! |
+| Wilderen      | Cuvée Clarisse | Whisky Infused Quadrupel | 10,2%   | Belgium | Very nice Whisky infused sweet dark heavy beer    |
 
 ## The cigar
 
