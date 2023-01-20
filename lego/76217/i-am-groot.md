@@ -19,7 +19,7 @@ As a fan of both LEGO and the Marvel franchise, I was excited to receive the I a
 
 ## The Set
 
-The I am Groot set, number 76217, is a medium-sized set, containing an unspecified amount of pieces. The finished model measures 18.9 cm high, 35.3 cm long, and 7.3 cm wide. The set comes with a detailed instruction manual that guides the builder through the building process step by step.
+The I am Groot set, number 76217, is a medium-sized set, containing **476** pieces. The finished model measures 18.9 cm high, 35.3 cm long, and 7.3 cm wide. The set comes with a detailed instruction manual that guides the builder through the building process step by step.
 
 ## Building Experience
 
