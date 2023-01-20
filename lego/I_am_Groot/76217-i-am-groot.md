@@ -13,7 +13,6 @@ share-img: /assets/img/j1g54w-blog.jpg
 * Email: [j1g54w_31337@proton.me](mailto:j1g54w_31337@proton.me)
 * Github: [https://github.com/j1g54w1337](https://github.com/j1g54w1337)
 * Twitter: [https://twitter.com/j1g54w_31337](https://twitter.com/j1g54w_31337)
-* PGP Key: 
 
 # Building the LEGO Marvel set 76217: I am Groot
 As a fan of both LEGO and the Marvel franchise, I was excited to receive the I am Groot set, number 76217 as a gift on the second day of Christmas, December 26th 2022. This set, based on the beloved character from the Guardians of the Galaxy series, promised to be a fun and challenging build. In this post, I'll be sharing my experience building the set, including the ups and downs, as well as a detailed description of the build process and the finished model.
