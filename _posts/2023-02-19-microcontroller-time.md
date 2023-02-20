@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soil Management with Microcontrollers
-subtitle: "Just some n3ry stuff on Sunday"
+subtitle: "Just some n3rdy stuff on Sunday"
 cover-img: /assets/img/j1g54w-blog.jpg
 thumbnail-img: /assets/img/j1g54w-thumb.jpg
 share-img: /assets/img/j1g54w-blog.jpg
