@@ -13,7 +13,7 @@ tags: [projects, esp32, coding, sensors, alblundy]
 Starting with soldering a new ESP32. Yesterday I dropped the breadboard with my project prototype and with that the USB connector broke. :( I'm not a star with micro-soldering so, it will be a fresh one.
 
 
-![esp32-murdered.jpg](../assets/img/postsesp32-murdered.jpg)
+![esp32-murdered.jpg](../assets/img/posts/esp32-murdered.jpg)
 
 
 # 13:20 - Wireguard VPN update... NPK RS-485 Sensor
@@ -35,11 +35,11 @@ Then I've got an update of my Wireguard VPN client which f*ck*d up my internet c
 
 
 
-![esp32-modbus485-wiring.jpg](../assets/img/postsesp32-modbus485-wiring.jpg)
+![esp32-modbus485-wiring.jpg](../assets/img/posts/esp32-modbus485-wiring.jpg)
 
 
 
-![esp32-modbus485-wiring-2.jpg](../assets/img/postsesp32-modbus485-wiring-2.jpg)
+![esp32-modbus485-wiring-2.jpg](../assets/img/posts/esp32-modbus485-wiring-2.jpg)
 
 # 13:59 - ~~Start coding~~ - Back to the drawingboard
 
