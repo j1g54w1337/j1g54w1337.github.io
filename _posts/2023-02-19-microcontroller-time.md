@@ -10,7 +10,7 @@ tags: [projects, esp32, coding, sensors, alblundy]
 
 # 12:37 - Soldering a fresh ESP32
 
-Starting with soldering a new ESP32. Yesterday I dropped the breadboard with my project prototype and with that the USB connector broke. :( I'm not a star with micro-soldering so it will be a fresh one.
+Starting with soldering a new ESP32. Yesterday I dropped the breadboard with my project prototype and with that the USB connector broke. :( I'm not a star with micro-soldering so, it will be a fresh one.
 
 
 ![esp32-murdered.jpg](../assets/img/postsesp32-murdered.jpg)
@@ -18,7 +18,7 @@ Starting with soldering a new ESP32. Yesterday I dropped the breadboard with my 
 
 # 13:20 - Wireguard VPN update... NPK RS-485 Sensor
 
-Then I've got an update of my Wireguard VPN client which f*ck*d up my internet connection. :@ But back online now and decided that I will go for the RS-485 NPK Soil Moisture sensor. I've been having some issues with connecting the sensor and getting values from the sensor using the MAX485 Modbus module. Now it's a fresh day so this time it should work.
+Then I've got an update of my Wireguard VPN client which f*ck*d up my internet connection. :@ But back online now and decided that I will go for the RS-485 NPK Soil Moisture sensor. I've been having some issues with connecting the sensor and getting values from the sensor using the MAX485 Modbus module. Now it's a fresh day, so this time it should work.
 
 ## Wiring Modbus MAX485 Module
 
@@ -27,11 +27,11 @@ Then I've got an update of my Wireguard VPN client which f*ck*d up my internet c
 |    VCC     |    5v            | Power supply pin. Connecting to the 5v to power-up the module via the Nano                 |
 |     A      |    N/A           | Non-Inverting receiver input and driver output. Will be connected with A on the NPK Sensor |
 |     B      |    N/A           | Inverting receiver input and driver output. Will be connected with B on the NPK Sensor     |
-|    GND     |    GND           | Ground pin which is connected to the GND pin on the Nano                                   |
+|    GND     |    GND           | Ground pin, which is connected to the GND pin on the Nano                                  |
 |     RO     |    2             | Receiver output pin. Connected to an RX pin of the Nano                                    |
 |     RE     |    8             | Receiver output enable pin. To enable, it is set at a LOW state                            |
 |     DE     |    7             | Driver output enable pin. To enable, it is set at a HIGH state                             |
-|     DI     |    3             | Driver output pin. Connected to an TX pin of the Nano                                      |
+|     DI     |    3             | Driver input pin. Connected to an TX pin of the Nano                                      |
 
 
 
@@ -44,7 +44,7 @@ Then I've got an update of my Wireguard VPN client which f*ck*d up my internet c
 # 13:59 - ~~Start coding~~ - Back to the drawingboard
 
 # 14:35 Arduino Nano
-Trying to find more information on how to connect the NPK Soil Sensor with the **MAX485** Modbus Module to a ESP32 seems to be hard, all documentation I've found is about the Modbus connected to a Arduino and besides that I've found multiple posts about the setup to an ESP32 is not working. I can't believe thats true, but to keep the process going on I'm going to solder a Arduino Nano and when that works I will send the measurements to the ESP32 so that can send the data over ESP-NOW to the slave controller that will send the measurements to the database. The ESP32 only solution can be figured out later. For now, soldering the Nano! :)
+Trying to find more information on how to connect the NPK Soil Sensor with the **MAX485** Modbus Module to an ESP32 seems to be hard, all documentation I've found is about the Modbus connected to an Arduino and besides that, I've found multiple posts about the setup to an ESP32 is not working. I can't believe that's true, but to keep the process going on I'm going to solder an Arduino Nano and when that works I will send the measurements to the ESP32 so that can send the data over ESP-NOW to the slave controller that will send the measurements to the database. The ESP32 only solution can be figured out later. For now, soldering the Nano! :)
 
 
 
@@ -76,7 +76,7 @@ Trying to find more information on how to connect the NPK Soil Sensor with the *
 
 
 # 15:07 - Start coding (again)
-I've been written a sketch based on an example. The sketch compiled successfully but I'm not getting any values back. Going to check the wiring to see if it's all correct. If so, then I need to get my multi-meter and see if all the power is is right.
+I've been written a sketch based on an example. The sketch compiled successfully, but I'm not getting any values back. Going to check the wiring to see if it's all correct. If so, then I need to get my multi-meter and see if all the power is right.
 
 ## Used code
 ```
@@ -183,16 +183,16 @@ byte potassium() {
 
 # 15:34 - Debugging
 ## Checking wiring
-I'm in doubt of the GND from the NPK sensor if that one is actually connected since I used a cable without the core being soldered. Trying a better cable wasn't the solution for the GND cable.
+I'm in doubt of the GND from the NPK sensor if that one is actually connected, since I used a cable without the core being soldered. Trying a better cable wasn't the solution for the GND cable.
 
 ## New MAX485 Modbus module
-To be sure that I didn't broke the modbus module I've installed a new one.
+To be sure that I didn't break the modbus module, I've installed a new one.
 
 ## New sketch
-The previous sketch was based on a NPK sensor only measuring NPK, since I use a sensor measuring also pH and Temperature I'm going to rewrite the sketch to see if it makes any difference. I wouldn't expect that based on how RS-485 works. But you never know
+The previous sketch was based on a NPK sensor only measuring NPK, since I use a sensor measuring also pH and Temperature I'm going to rewrite the sketch to see if it makes any difference. I wouldn't expect that based on how RS-485 works. But you never know.
 
 # 08:38 - The next day (20-03-2023)
-Finally I'v found a sketch that actually seems to work! Calibrating the sensor is still something on the todo list, but I've some numbers that I can actually link to the measurement that are been done.
+Finally, I've found a sketch that actually seems to work! Calibrating the sensor is still something on the todo list, but I have some numbers that I can actually link to the measurement that have been done.
 
 Wrapping it up for now! Soon more on the Al Blundy project!
 
