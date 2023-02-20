@@ -22,16 +22,16 @@ Then I've got an update of my Wireguard VPN client which f*ck*d up my internet c
 
 ## Wiring Modbus MAX485 Module
 
-| Pin module | Pin ESP32 | Description                                                                                |
-| :--------: | :-------: | ------------------------------------------------------------------------------------------ |
-|    VCC     |    5v     | Power supply pin. Connecting to the 5v to power-up the module via de ESP32                 |
-|     A      |    N/A    | Non-Inverting receiver input and driver output. Will be connected with A on the NPK Sensor |
-|     B      |    N/A    | Inverting receiver input and driver output. Will be connected with B on the NPK Sensor     |
-|    GND     |    GND    | Ground pin which is connected to the GND pin on the ESP32                                  |
-|     RO     |    RX     | Receiver output pin. Connected to an RX pin of the ESP32                                   |
-|     RE     |    xx     | Receiver output enable pin. To enable, it is set at a LOW state                            |
-|     DE     |    xx     | Driver output enable pin. To enable, it is set at a HIGH state                             |
-|     DI     |    TX     | Driver output pin. Connected to an TX pin of the ESP32                                     |
+| Pin module | Pin Arduino Nano | Description                                                                                |
+| :--------: | :--------------: | ------------------------------------------------------------------------------------------ |
+|    VCC     |    5v            | Power supply pin. Connecting to the 5v to power-up the module via the Nano                 |
+|     A      |    N/A           | Non-Inverting receiver input and driver output. Will be connected with A on the NPK Sensor |
+|     B      |    N/A           | Inverting receiver input and driver output. Will be connected with B on the NPK Sensor     |
+|    GND     |    GND           | Ground pin which is connected to the GND pin on the Nano                                   |
+|     RO     |    2             | Receiver output pin. Connected to an RX pin of the Nano                                    |
+|     RE     |    8             | Receiver output enable pin. To enable, it is set at a LOW state                            |
+|     DE     |    7             | Driver output enable pin. To enable, it is set at a HIGH state                             |
+|     DI     |    3             | Driver output pin. Connected to an TX pin of the Nano                                      |
 
 
 
