@@ -21,6 +21,7 @@ Starting with soldering a new ESP32. Yesterday I dropped the breadboard with my 
 Then I've got an update of my Wireguard VPN client which f*ck*d up my internet connection. :@ But back online now and decided that I will go for the RS-485 NPK Soil Moisture sensor. I've been having some issues with connecting the sensor and getting values from the sensor using the MAX485 Modbus module. Now it's a fresh day so this time it should work.
 
 ## Wiring Modbus MAX485 Module
+
 | Pin module | Pin ESP32 | Description                                                                                |
 | :--------: | :-------: | ------------------------------------------------------------------------------------------ |
 |    VCC     |    5v     | Power supply pin. Connecting to the 5v to power-up the module via de ESP32                 |
