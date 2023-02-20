@@ -13,7 +13,7 @@ tags: [projects, esp32, coding, sensors, alblundy]
 Starting with soldering a new ESP32. Yesterday I dropped the breadboard with my project prototype and with that the USB connector broke. :( I'm not a star with micro-soldering so it will be a fresh one.
 
 
-![esp32-murdered.jpg](:/d67b3859e4e54f4ba5a63ce7c4f73a58){width=800}
+![esp32-murdered.jpg](../assets/img/postsesp32-murdered.jpg)
 
 
 # 13:20 - Wireguard VPN update... NPK RS-485 Sensor
@@ -35,11 +35,11 @@ Then I've got an update of my Wireguard VPN client which f*ck*d up my internet c
 
 
 
-![esp32-modbus485-wiring.jpg](:/60aff9a737134b7da72867279eca63ce){width=800}
+![esp32-modbus485-wiring.jpg](../assets/img/postsesp32-modbus485-wiring.jpg)
 
 
 
-![esp32-modbus485-wiring-2.jpg](:/dcc3f41375f0473099a3665c021ea21d){width=800}
+![esp32-modbus485-wiring-2.jpg](../assets/img/postsesp32-modbus485-wiring-2.jpg)
 
 # 13:59 - ~~Start coding~~ - Back to the drawingboard
 
@@ -48,30 +48,30 @@ Trying to find more information on how to connect the NPK Soil Sensor with the *
 
 
 
-![IMG_0274.jpeg](:/50bd0cc9bd754b419dd2d5a853c786ec){width=800}
+![IMG_0274.jpeg](../assets/img/posts/IMG_0274.jpeg)
 
 
 
-![IMG_0273.jpeg](:/6382a6e44fb9482996d44102baabdbfe){width=800}
+![IMG_0273.jpeg](../assets/img/posts/IMG_0273.jpeg)
 
 
 
-![IMG_0272.jpeg](:/a5b321052d274055a83000482aa50dcb){width=800}
+![IMG_0272.jpeg](../assets/img/posts/IMG_0272.jpeg)
 
 
 # 14:52 - Wiring
 
 
 
-![IMG_0277.jpeg](:/97d758e185774957912d86059091a0fc){width=800}
+![IMG_0277.jpeg](../assets/img/posts/IMG_0277.jpeg)
 
 
 
-![IMG_0276.jpeg](:/9a34c5c7476c4a30929e1782aed73ca0){width=800}
+![IMG_0276.jpeg](../assets/img/posts/IMG_0276.jpeg)
 
 
 
-![IMG_0275.jpeg](:/5175731e14d74267bf85a536979fe9dd){width=800}
+![IMG_0275.jpeg](../assets/img/posts/IMG_0275.jpeg)
 
 
 
