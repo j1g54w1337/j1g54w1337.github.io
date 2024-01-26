@@ -22,7 +22,7 @@ author: John Kramer
 navbar-links:
   About Me: "aboutme"
   Stable Diffusion:
-    - Prompt Engineering: "/stable-diffusion/prompt-engineering/"
+    - Prompt Anatomy: "/stable-diffusion/prompt-anatomy/"
 #  Gists: "gists"
   Projects:
 #    - Al Blundy: "projects/al_blundy"
