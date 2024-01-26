@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I am Groot
-subtitle: Legoset: 76217
+subtitle: Legoset 76217
 #gh-repo: j1g54w1337/j1g54w.github.io
 #gh-badge: [star, fork, follow]
 cover-img: /assets/img/j1g54w-blog.jpg
