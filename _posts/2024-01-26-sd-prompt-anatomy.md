@@ -3,7 +3,7 @@ layout: post
 title: Prompt Anatomy
 subtitle: "Stable Diffusion Prompt Engineering"
 cover-img: /assets/img/j1g54w-blog.jpg
-thumbnail-img: /assets/img/stable-diffusion/prompt-engineering/elsa-thumb.png
+thumbnail-img: /assets/img/stable-diffusion/prompt-anatomy/elsa-thumb.png
 share-img: /assets/img/j1g54w-blog.jpg
 tags: [announcements, genai, stable-diffusion, prompts]
 ---
@@ -18,4 +18,4 @@ If you have any suggestions for improvements of anything else..... Let me know!
 
 Cheers!
 
-**[Go to Stable Diffusion - Prompt Anatomy](../stable-diffusion/prompt-anatomy/2024-01-26-part-1-prompt-anatomy/)**
+**[Go to Stable Diffusion - Prompt Anatomy](../stable-diffusion/prompt-anatomy/2024-01-26-prompt-anatomy/)**
