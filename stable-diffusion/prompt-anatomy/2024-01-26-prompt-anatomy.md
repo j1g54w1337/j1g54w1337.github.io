@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chapter 1 - Prompt Anatomy
+title: Prompt Anatomy
 subtitle: Stable Diffusion Prompt Engineering
 cover-img: /assets/img/j1g54w-blog.jpg
 thumbnail-img: /assets/img/stable-diffusion/prompt-anatomy/elsa-thumb.png
