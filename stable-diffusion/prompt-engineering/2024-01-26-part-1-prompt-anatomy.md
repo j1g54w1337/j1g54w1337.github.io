@@ -3,9 +3,8 @@ layout: page
 title: Chapter 1 - Prompt Anatomy
 subtitle: Stable Diffusion Prompt Engineering
 cover-img: /assets/img/j1g54w-blog.jpg
-thumbnail-img: /assets/img/j1g54w-thumb.jpg
+thumbnail-img: /assets/img/stable-diffusion/prompt-engineering//elsa-thumb.png
 share-img: /assets/img/j1g54w-blog.jpg
-tags: [genai, ai, image-generator, new-tech]
 ---
 
 # Chapter 1 - Anatomy of the prompt
@@ -121,7 +120,7 @@ With a random seed **-1** enabled you generate a couple of images, for this exam
 
 Your prompt looks like this: **Elsa from Frozen**
 
-![c1ec1bae79b059a64b4ec584805d6411.png](../../assets/img/stable-diffusion/prompt-engineeringe9cc56c065a947dd96d78367a94547a7)
+![c1ec1bae79b059a64b4ec584805d6411.png](../../assets/img/stable-diffusion/prompt-engineering/e9cc56c065a947dd96d78367a94547a7)
 
 Quite impressive already, don't you think? But we can do a lot of improvements by adding more details. Choose the image you like the most and take the **seed** of this image. I go for the top middle one with seed: **438922630**
 
@@ -130,7 +129,7 @@ This part can be a bit confusing since we put the **medium** in front of the **s
 
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen**
 
-![0e16786b14ff2d0eecd988546479f048.png](../../assets/img/stable-diffusion/prompt-engineeringa080abd74e714fdeaa5442b183682ac2)
+![0e16786b14ff2d0eecd988546479f048.png](../../assets/img/stable-diffusion/prompt-engineering/a080abd74e714fdeaa5442b183682ac2)
 
 As you will notice the results are more similar which is a result of using the same seed for all generated images.
 
@@ -139,19 +138,19 @@ Now I will generate a couple of examples without changing the settings, I will o
 
 **1. hyperrealistic**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, hyperrealistic**
-![4897af50d920d60dfc4801b26836b304.png](../../assets/img/stable-diffusion/prompt-engineering65ba543a72c949ef989205b949d88107)
+![4897af50d920d60dfc4801b26836b304.png](../../assets/img/stable-diffusion/prompt-engineering/65ba543a72c949ef989205b949d88107)
 
 **2. pop-art** 
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, pop-art**
-![3195d592fc87306de4697f2a97681487.png](../../assets/img/stable-diffusion/prompt-engineering3d498b1145d248f485a662a23f8ad076)
+![3195d592fc87306de4697f2a97681487.png](../../assets/img/stable-diffusion/prompt-engineering/3d498b1145d248f485a662a23f8ad076)
 
 **3. Modernist**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist**
-![060ae764ec8748ee1b5e9c77044e6877.png](../../assets/img/stable-diffusion/prompt-engineeringf9a4d1922ca849bbb04ff6b4b19b620d)
+![060ae764ec8748ee1b5e9c77044e6877.png](../../assets/img/stable-diffusion/prompt-engineering/f9a4d1922ca849bbb04ff6b4b19b620d)
 
 **4. art nouveau**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, art nouveau**
-![a6362082c7b8a8f5e10a669881e0c5bf.png](../../assets/img/stable-diffusion/prompt-engineering8f42340664a14dbb9d4413ae5674ef47)
+![a6362082c7b8a8f5e10a669881e0c5bf.png](../../assets/img/stable-diffusion/prompt-engineering/8f42340664a14dbb9d4413ae5674ef47)
 
 I like **Modernist** the most, so I'll pick that one for the rest of the post!
 
@@ -160,147 +159,147 @@ When you add an artist to your prompt the AI will create an artwork in the artst
 
 **1. John Collier**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by John Collier**
-![fd15d802486c43711292547a26a96f4d.png](../../assets/img/stable-diffusion/prompt-engineering2c34e105ccac4a41aa184a3db58d55db)
+![fd15d802486c43711292547a26a96f4d.png](../../assets/img/stable-diffusion/prompt-engineering/2c34e105ccac4a41aa184a3db58d55db)
 
 In the first creation I've used "by John Collier" but you can also use a **comma seperated** approach which results in something totally different, up to you what you like most!
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist, John Collier**
-![eccf17741283a6e0bf40ac94b35d3f35.png](../../assets/img/stable-diffusion/prompt-engineering559aa77f1c39416aa1aa3997823de801)
+![eccf17741283a6e0bf40ac94b35d3f35.png](../../assets/img/stable-diffusion/prompt-engineering/559aa77f1c39416aa1aa3997823de801)
 
 **2. Stanley Artgerm Lau**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau**
-![56ad84af74bbfeb0d083ad0f928450b0.png](../../assets/img/stable-diffusion/prompt-engineeringbfd0d507e6934220bff0e6f4c8d36116)
+![56ad84af74bbfeb0d083ad0f928450b0.png](../../assets/img/stable-diffusion/prompt-engineering/bfd0d507e6934220bff0e6f4c8d36116)
 
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist, Stanley Artgerm Lau**
-![7bc7aabe33314fcc8a155aa5d2c4392a.png](../../assets/img/stable-diffusion/prompt-engineering01cfe02875d24c6d9e003261affe9058)
+![7bc7aabe33314fcc8a155aa5d2c4392a.png](../../assets/img/stable-diffusion/prompt-engineering/01cfe02875d24c6d9e003261affe9058)
 
 As you can see in this example, the two different prompts will not always lead to completely different creations.
 
 **3. Frida Kahlo**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Frida Kahlo**
-![5c7420b7a4c4cb40ee3c61030cb76311.png](../../assets/img/stable-diffusion/prompt-engineering2bc590368da34365b49050379721a37c)
+![5c7420b7a4c4cb40ee3c61030cb76311.png](../../assets/img/stable-diffusion/prompt-engineering/2bc590368da34365b49050379721a37c)
 
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist, Frida Kahlo**
-![f3053e2ad9f07531ab82b1b41514eec2.png](../../assets/img/stable-diffusion/prompt-engineeringe41100882a034dec83f0a9f934fb02c5)
+![f3053e2ad9f07531ab82b1b41514eec2.png](../../assets/img/stable-diffusion/prompt-engineering/e41100882a034dec83f0a9f934fb02c5)
 
 **4. John Singer Sargent**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by John Singer Sargent**
-![9060075168fa3fe75f172d668d72b723.png](../../assets/img/stable-diffusion/prompt-engineeringc657c1d99b2d4e39bf6065ed6ef9cc0a)
+![9060075168fa3fe75f172d668d72b723.png](../../assets/img/stable-diffusion/prompt-engineering/c657c1d99b2d4e39bf6065ed6ef9cc0a)
 
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist, John Singer Sargent**
-![9351a16123fd3f91430d278b98ab1202.png](../../assets/img/stable-diffusion/prompt-engineeringc78d1a12e3004e4c93a0a2acdde2ae85)
+![9351a16123fd3f91430d278b98ab1202.png](../../assets/img/stable-diffusion/prompt-engineering/c78d1a12e3004e4c93a0a2acdde2ae85)
 
 **5. Alphonse Mucha**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Alphonse Mucha**
-![304dee00e25aa62a9c2afb560998fa43.png](../../assets/img/stable-diffusion/prompt-engineering10053720de964f819753a1fec32bc031)
+![304dee00e25aa62a9c2afb560998fa43.png](../../assets/img/stable-diffusion/prompt-engineering/10053720de964f819753a1fec32bc031)
 
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist, Alphonse Mucha**
-![63ea5ed1bb51a845451aa3b0f3e66eb1.png](../../assets/img/stable-diffusion/prompt-engineering9d1eba31e7914b248dcd2bbdbf362266)
+![63ea5ed1bb51a845451aa3b0f3e66eb1.png](../../assets/img/stable-diffusion/prompt-engineering/9d1eba31e7914b248dcd2bbdbf362266)
 
 I like the first run from **Stanley Artgerm Lau** the most, so I will continiue with this prompt **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau**
 
 #### 5. Website - Adding a art website as a reference
 **1. pixiv**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, pixiv**
-![f463d04bc1f824748194325fbd2447ea.png](../../assets/img/stable-diffusion/prompt-engineering90b59418317d4b019f88a822fe494de3)
+![f463d04bc1f824748194325fbd2447ea.png](../../assets/img/stable-diffusion/prompt-engineering/90b59418317d4b019f88a822fe494de3)
 
 **2. pixabay**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, pixabay**
-![4e533a15815e47586d409749e7bdfd88.png](../../assets/img/stable-diffusion/prompt-engineering38dbd4d1204d4ac4a6ac95997e3a2017)
+![4e533a15815e47586d409749e7bdfd88.png](../../assets/img/stable-diffusion/prompt-engineering/38dbd4d1204d4ac4a6ac95997e3a2017)
 
 **3. artstation**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation**
-![966e4c0e4ad6d30c799e8b6272ab6f12.png](../../assets/img/stable-diffusion/prompt-engineering27116e197c5e45918bf58832f38cbfd9)
+![966e4c0e4ad6d30c799e8b6272ab6f12.png](../../assets/img/stable-diffusion/prompt-engineering/27116e197c5e45918bf58832f38cbfd9)
 
 #### 6. Resolution - Improving the quality of the generated results
 **1. unreal engine**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, unreal engine**
-![38cb25cd06977739d870283b9d92614e.png](../../assets/img/stable-diffusion/prompt-engineering6910fb6047e649c382ad34f7ef429ab9)
+![38cb25cd06977739d870283b9d92614e.png](../../assets/img/stable-diffusion/prompt-engineering/6910fb6047e649c382ad34f7ef429ab9)
 
 **2. sharp focus**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, sharp focus**
-![6a2fe7f40403c6a8d105d6e3407d5eeb.png](../../assets/img/stable-diffusion/prompt-engineeringe95cf78f41064d11b571904194ed1594)
+![6a2fe7f40403c6a8d105d6e3407d5eeb.png](../../assets/img/stable-diffusion/prompt-engineering/e95cf78f41064d11b571904194ed1594)
 
 **3. 8k**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k**
-![ffb97313bb9b88a2e7a4800577a8d956.png](../../assets/img/stable-diffusion/prompt-engineeringdcc1dc0bb8ff47b2a66979ce0c4ef786)
+![ffb97313bb9b88a2e7a4800577a8d956.png](../../assets/img/stable-diffusion/prompt-engineering/dcc1dc0bb8ff47b2a66979ce0c4ef786)
 
 #### 6. Additional details
 **1. dramatic**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, dramatic**
-![a2ca2af7b93b2c8735ef6e987f0eb215.png](../../assets/img/stable-diffusion/prompt-engineeringd33736c70a7245d6ab647af69ce270fa)
+![a2ca2af7b93b2c8735ef6e987f0eb215.png](../../assets/img/stable-diffusion/prompt-engineering/d33736c70a7245d6ab647af69ce270fa)
 
 **2. silk**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, silk**
-![12f6d3adeb81179b1c4544690a30c452.png](../../assets/img/stable-diffusion/prompt-engineeringa1774defd6b547b798bf50451b70190e)
+![12f6d3adeb81179b1c4544690a30c452.png](../../assets/img/stable-diffusion/prompt-engineering/a1774defd6b547b798bf50451b70190e)
 
 **3. expansive**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, expansive**
-![62a2f7f7cab7ed6fcd0ff6b4fda5e331.png](../../assets/img/stable-diffusion/prompt-engineering2311f431d84d4636b23b0b34c4af5298)
+![62a2f7f7cab7ed6fcd0ff6b4fda5e331.png](../../assets/img/stable-diffusion/prompt-engineering/2311f431d84d4636b23b0b34c4af5298)
 
 **4. low angle shot**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, low angle shot**
-![7ff502161fce20e918c235a562f5f0b0.png](../../assets/img/stable-diffusion/prompt-engineering395cd81020e14e88a3251da96b9ff17b)
+![7ff502161fce20e918c235a562f5f0b0.png](../../assets/img/stable-diffusion/prompt-engineering/395cd81020e14e88a3251da96b9ff17b)
 
 **5. god rays**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays**
-![ce613da064c8b09f8f3b435e67fd5008.png](../../assets/img/stable-diffusion/prompt-engineering9d54a47e9e9545ffb49f088dc4d1634c)
+![ce613da064c8b09f8f3b435e67fd5008.png](../../assets/img/stable-diffusion/prompt-engineering/9d54a47e9e9545ffb49f088dc4d1634c)
 
 **6. psychedelic**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, psychedelic**
-![0b83123a2302f4a374cb8d63d0adaff0.png](../../assets/img/stable-diffusion/prompt-engineering64b098893e664ee39d970be82e096916)
+![0b83123a2302f4a374cb8d63d0adaff0.png](../../assets/img/stable-diffusion/prompt-engineering/64b098893e664ee39d970be82e096916)
 
 #### 7. Colors - Adding an additional color scheme to you artwork
 **1. iridescent gold**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, iridescent gold**
-![16404324f2f2ba34e816e86c82cb73c9.png](../../assets/img/stable-diffusion/prompt-engineering26e0214ad5d8442aa2eec6e50ff0fa2f)
+![16404324f2f2ba34e816e86c82cb73c9.png](../../assets/img/stable-diffusion/prompt-engineering/26e0214ad5d8442aa2eec6e50ff0fa2f)
 
 **2. silver**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver**
-![e29489fd40ea7a2b4863a79570734253.png](../../assets/img/stable-diffusion/prompt-engineeringc7e884f3bd56496aadd7730b83d19ce0)
+![e29489fd40ea7a2b4863a79570734253.png](../../assets/img/stable-diffusion/prompt-engineering/c7e884f3bd56496aadd7730b83d19ce0)
 
 **3. vintage**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, vintage**
-![16b15a7c0563839e97c0e6db80ee64b1.png](../../assets/img/stable-diffusion/prompt-engineeringe20af07132804ba69ffa98449198e90f)
+![16b15a7c0563839e97c0e6db80ee64b1.png](../../assets/img/stable-diffusion/prompt-engineering/e20af07132804ba69ffa98449198e90f)
 
 #### 8. Lightning - Add lightning effects to your artwork
 **1. volumetric**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, volumetric**
-![a73815209883ba1265d397afa0bc5768.png](../../assets/img/stable-diffusion/prompt-engineering690f75a622364485aad8f842de3bf2e6)
+![a73815209883ba1265d397afa0bc5768.png](../../assets/img/stable-diffusion/prompt-engineering/690f75a622364485aad8f842de3bf2e6)
 
 **2. rim lighting**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, rim lighting**
-![1b7e8829fd6d06290f018f64f3d44981.png](../../assets/img/stable-diffusion/prompt-engineeringde3b93b00f5e4eaeb6e843df20e182ed)
+![1b7e8829fd6d06290f018f64f3d44981.png](../../assets/img/stable-diffusion/prompt-engineering/de3b93b00f5e4eaeb6e843df20e182ed)
 
 **3. golden hour**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, golden hour**
-![d6b91da7cee9106c17d8a33a5db15361.png](../../assets/img/stable-diffusion/prompt-engineering546ab781befa43cfb612014c9dde78a6)
+![d6b91da7cee9106c17d8a33a5db15361.png](../../assets/img/stable-diffusion/prompt-engineering/546ab781befa43cfb612014c9dde78a6)
 
 **4. blue hour**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, blue hour**
-![9087872940603c65481167f44caa6ca4.png](../../assets/img/stable-diffusion/prompt-engineering3f69ca157c61451da64e0d87202495f1)
+![9087872940603c65481167f44caa6ca4.png](../../assets/img/stable-diffusion/prompt-engineering/3f69ca157c61451da64e0d87202495f1)
 
 **5. sunlight**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, sunlight**
-![00628931b5f6753a09a99a0cc5a3c34a.png](../../assets/img/stable-diffusion/prompt-engineeringc811fb61a48445da8f1d444e8f94a5cb)
+![00628931b5f6753a09a99a0cc5a3c34a.png](../../assets/img/stable-diffusion/prompt-engineering/c811fb61a48445da8f1d444e8f94a5cb)
 
 **6. dimly light**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, dimly light**
-![a5511862f9de5fddc757545a7ce83dc3.png](../../assets/img/stable-diffusion/prompt-engineering5563925bf819490895762c868352e1a6)
+![a5511862f9de5fddc757545a7ce83dc3.png](../../assets/img/stable-diffusion/prompt-engineering/5563925bf819490895762c868352e1a6)
 
 **7. broad lightning**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, broad lightning**
-![42e30883fe3b71f751b51f4b9509aaf3.png](../../assets/img/stable-diffusion/prompt-engineeringd2ed904a85cd4ab7bd5d33d940caae35)
+![42e30883fe3b71f751b51f4b9509aaf3.png](../../assets/img/stable-diffusion/prompt-engineering/d2ed904a85cd4ab7bd5d33d940caae35)
 
 **8. loop lightning**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, loop lightning**
-![864f75de7890bd907cac26a169bb79c4.png](../../assets/img/stable-diffusion/prompt-engineering8cbd6e8e00084203bd588f82354cef98)
+![864f75de7890bd907cac26a169bb79c4.png](../../assets/img/stable-diffusion/prompt-engineering/8cbd6e8e00084203bd588f82354cef98)
 
 **9. rembrandt lightning**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, rembrandt light style, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver**
-![f47fe824096c1f2513b96039e11faa68.png](../../assets/img/stable-diffusion/prompt-engineeringf902aeb3aa91452da3b9d38436ef48c1)
+![f47fe824096c1f2513b96039e11faa68.png](../../assets/img/stable-diffusion/prompt-engineering/f902aeb3aa91452da3b9d38436ef48c1)
 
 **10. butterfly lightning**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, butterfly lightning**
-![a5f27b9eb9c873ae0673c1fd04d40194.png](../../assets/img/stable-diffusion/prompt-engineeringfdc3e223ef4b46fbbe299f6396aa8df2)
+![a5f27b9eb9c873ae0673c1fd04d40194.png](../../assets/img/stable-diffusion/prompt-engineering/fdc3e223ef4b46fbbe299f6396aa8df2)
 
 
