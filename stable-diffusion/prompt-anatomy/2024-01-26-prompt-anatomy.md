@@ -17,6 +17,7 @@ To start with a new generation you have to setup the basics first. What I always
 * Nvidia GeForce RTX 3060
 
 ## Used sources
+* [Rev Animated Model](https://civitai.com/models/7371/rev-animated) BE AWARE OF NSFW CONTENT AT CIVITAI!!
 * [AI Eenthusiastic - Stable Diffusion Lighting Guide](https://aienthusiastic.com/stable-diffusion-lighting-guide/)
 
 # Prompt anatomy
