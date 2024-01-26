@@ -2,9 +2,9 @@
 layout: post
 title: Prompt Anatomy
 subtitle: "Stable Diffusion Prompt Engineering"
-cover-img: /assets/img/j1g54w-blog.jpg
+cover-img: /assets/img/stable-diffusion/prompt-anatomy/elsa-banner.png
 thumbnail-img: /assets/img/stable-diffusion/prompt-anatomy/elsa-thumb.png
-share-img: /assets/img/j1g54w-blog.jpg
+share-img: /assets/img/stable-diffusion/prompt-anatomy/elsa-thumb.png
 tags: [announcements, genai, stable-diffusion, prompts]
 ---
 
