@@ -18,4 +18,4 @@ If you have any suggestions for improvements of anything else..... Let me know!
 
 Cheers!
 
-**[Go to Stable Diffusion - Prompt Anatomy](../stable-diffusion/prompt-engineering/)**
+**[Go to Stable Diffusion - Prompt Anatomy](../stable-diffusion/prompt-engineering/2024-01-26-part-1-prompt-anatomy/)**
