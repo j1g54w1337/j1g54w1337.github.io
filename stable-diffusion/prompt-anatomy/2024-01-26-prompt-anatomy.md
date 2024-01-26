@@ -7,23 +7,22 @@ thumbnail-img: /assets/img/stable-diffusion/prompt-anatomy/elsa-thumb.png
 share-img: /assets/img/j1g54w-blog.jpg
 ---
 
-# Chapter 1 - Anatomy of the prompt
-## Where to begin
-### Setup point
+# Anatomy of the prompt
+## Setup point
 To start with a new generation you have to setup the basics first. What I always do is choosing the model I like and leave the rest alone, for now. I really love the results of the model **RevAnimated**, so that's also the one I use for this post to start with.
 
-### Hardware setup
+## Hardware setup
 * 18 Solar Panels
 * Nvidia GeForce GTX 1080Ti
 * Nvidia GeForce RTX 3060
 
-### Used sources
+## Used sources
 * [AI Eenthusiastic - Stable Diffusion Lighting Guide](https://aienthusiastic.com/stable-diffusion-lighting-guide/)
 
-## Prompt anatomy
+# Prompt anatomy
 A prompt can make you a great image, but a single typo or wrong placement of a word can messup your whole creation and results in a **gompie**. Prompts can be really complex and confusing so it's important to know how the prompt works and how you can build one. Let me take you to a proven prompt anatomy and beaking up each part to explain what it does **"add source of prompt anatomy"**
 
-### The flow
+## The flow
 A prompt flow looks like this: **Subject (required) -> Medium -> Style -> Artist -> Website -> Resolution -> Additional details -> Color -> Lighting**
 
 Later I will add examples on each step of the flow, but first I'm going to tell you what each step in the flow means and what it does.
@@ -116,14 +115,14 @@ Mentioning the artist in the prompt is a strong effect. Study their work and cho
 | Rembrandt Lighting | Named after the famous painter, this technique creates a small triangle of light on the shadowed side of the face, below the eye |
 | Butterfly Lighting | Produces a small, butterfly-shaped shadow just below the nose |
 
-## Time to generate some artwork
-### Setup your starting point
+# Time to generate some artwork
+## Setup your starting point
 * Model: RevAnimated
 * Steps: 20
 * CFG: 7
 * Sampler: DPM++ 2M Karras
 
-#### 1. Subject - Generate a couple of images
+### 1. Subject - Generate a couple of images
 With a random seed **-1** enabled you generate a couple of images, for this example I create **6 images** with only a subject in the prompt; **Elsa from Frozen**
 
 Your prompt looks like this: **Elsa from Frozen**
@@ -132,7 +131,7 @@ Your prompt looks like this: **Elsa from Frozen**
 
 Quite impressive already, don't you think? But we can do a lot of improvements by adding more details. Choose the image you like the most and take the **seed** of this image. I go for the top middle one with seed: **438922630**
 
-#### 2. Medium - What category is used for you artwork
+### 2. Medium - What category is used for you artwork
 This part can be a bit confusing since we put the **medium** in front of the **subject**, but when you read your prompt you'll probably understand why that is. Lets go for: **Ultra realistic illustration** and we generate 6 new images but now with the choosen seed as starting point.
 
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen**
@@ -141,7 +140,7 @@ Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen*
 
 As you will notice the results are more similar which is a result of using the same seed for all generated images.
 
-#### 3. Style - Adding some style
+### 3. Style - Adding some style
 Now I will generate a couple of examples without changing the settings, I will only change the **style** in the prompt so you can see what it does. It's possible that the results will not be 100% similar, this has to do with the changed prompt that will have influence on the calculations and results.
 
 **1. hyperrealistic**
@@ -162,7 +161,7 @@ Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen,
 
 I like **Modernist** the most, so I'll pick that one for the rest of the post!
 
-#### 4. Artist - Adding an Artist
+### 4. Artist - Adding an Artist
 When you add an artist to your prompt the AI will create an artwork in the artst style, for example thinking of Van Gogh, or Rembrandt, or combine both to make unique artworks based on the combined styles. Since that approach can also completely mess up your results I will leave that part for you own **trial-and-error** Friday evening. :)
 
 **1. John Collier**
@@ -205,7 +204,7 @@ Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen,
 
 I like the first run from **Stanley Artgerm Lau** the most, so I will continiue with this prompt **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau**
 
-#### 5. Website - Adding a art website as a reference
+### 5. Website - Adding a art website as a reference
 **1. pixiv**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, pixiv**
 ![f463d04bc1f824748194325fbd2447ea.png](../../assets/img/stable-diffusion/prompt-anatomy/90b59418317d4b019f88a822fe494de3.png)
@@ -218,7 +217,7 @@ Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen,
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation**
 ![966e4c0e4ad6d30c799e8b6272ab6f12.png](../../assets/img/stable-diffusion/prompt-anatomy/27116e197c5e45918bf58832f38cbfd9.png)
 
-#### 6. Resolution - Improving the quality of the generated results
+### 6. Resolution - Improving the quality of the generated results
 **1. unreal engine**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, unreal engine**
 ![38cb25cd06977739d870283b9d92614e.png](../../assets/img/stable-diffusion/prompt-anatomy/6910fb6047e649c382ad34f7ef429ab9.png)
@@ -231,7 +230,7 @@ Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen,
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k**
 ![ffb97313bb9b88a2e7a4800577a8d956.png](../../assets/img/stable-diffusion/prompt-anatomy/dcc1dc0bb8ff47b2a66979ce0c4ef786.png)
 
-#### 6. Additional details
+### 6. Additional details
 **1. dramatic**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, dramatic**
 ![a2ca2af7b93b2c8735ef6e987f0eb215.png](../../assets/img/stable-diffusion/prompt-anatomy/d33736c70a7245d6ab647af69ce270fa.png)
@@ -256,7 +255,7 @@ Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen,
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, psychedelic**
 ![0b83123a2302f4a374cb8d63d0adaff0.png](../../assets/img/stable-diffusion/prompt-anatomy/64b098893e664ee39d970be82e096916.png)
 
-#### 7. Colors - Adding an additional color scheme to you artwork
+### 7. Colors - Adding an additional color scheme to you artwork
 **1. iridescent gold**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, iridescent gold**
 ![16404324f2f2ba34e816e86c82cb73c9.png](../../assets/img/stable-diffusion/prompt-anatomy/26e0214ad5d8442aa2eec6e50ff0fa2f.png)
@@ -269,7 +268,7 @@ Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen,
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, vintage**
 ![16b15a7c0563839e97c0e6db80ee64b1.png](../../assets/img/stable-diffusion/prompt-anatomy/e20af07132804ba69ffa98449198e90f.png)
 
-#### 8. Lightning - Add lightning effects to your artwork
+### 8. Lightning - Add lightning effects to your artwork
 **1. volumetric**
 Your prompt looks like this: **Ultra realistic illustration of Elsa from Frozen, Modernist by Stanley Artgerm Lau, artstation, 8k, god rays, silver, volumetric**
 ![a73815209883ba1265d397afa0bc5768.png](../../assets/img/stable-diffusion/prompt-anatomy/690f75a622364485aad8f842de3bf2e6.png)
